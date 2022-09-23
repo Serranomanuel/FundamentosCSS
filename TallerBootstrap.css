@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Backgrounds */
+
+#background-head {
+  background: #000000;
+}
+/*Cambio de tamaño a los container*/
+
+.form-container {
+  height: 200px;
+  width: 400px;
+}
